@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/markdown-previewer-edgar/static/css/main.7b071f5e.chunk.css",
-    "main.js": "/markdown-previewer-edgar/static/js/main.1d1e3bae.chunk.js",
-    "main.js.map": "/markdown-previewer-edgar/static/js/main.1d1e3bae.chunk.js.map",
-    "runtime-main.js": "/markdown-previewer-edgar/static/js/runtime-main.1c97f541.js",
-    "runtime-main.js.map": "/markdown-previewer-edgar/static/js/runtime-main.1c97f541.js.map",
-    "static/js/2.d806ea85.chunk.js": "/markdown-previewer-edgar/static/js/2.d806ea85.chunk.js",
-    "static/js/2.d806ea85.chunk.js.map": "/markdown-previewer-edgar/static/js/2.d806ea85.chunk.js.map",
-    "index.html": "/markdown-previewer-edgar/index.html",
-    "precache-manifest.d24c67c3eb5acab2e3d2c8c71bf52abd.js": "/markdown-previewer-edgar/precache-manifest.d24c67c3eb5acab2e3d2c8c71bf52abd.js",
-    "service-worker.js": "/markdown-previewer-edgar/service-worker.js",
-    "static/css/main.7b071f5e.chunk.css.map": "/markdown-previewer-edgar/static/css/main.7b071f5e.chunk.css.map",
-    "static/js/2.d806ea85.chunk.js.LICENSE.txt": "/markdown-previewer-edgar/static/js/2.d806ea85.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/markdown-previewer-edgar/static/media/logo.5d5d9eef.svg"
+    "main.css": "/edgar-markdown-previewer/static/css/main.7b071f5e.chunk.css",
+    "main.js": "/edgar-markdown-previewer/static/js/main.1d1e3bae.chunk.js",
+    "main.js.map": "/edgar-markdown-previewer/static/js/main.1d1e3bae.chunk.js.map",
+    "runtime-main.js": "/edgar-markdown-previewer/static/js/runtime-main.d6663eee.js",
+    "runtime-main.js.map": "/edgar-markdown-previewer/static/js/runtime-main.d6663eee.js.map",
+    "static/js/2.d806ea85.chunk.js": "/edgar-markdown-previewer/static/js/2.d806ea85.chunk.js",
+    "static/js/2.d806ea85.chunk.js.map": "/edgar-markdown-previewer/static/js/2.d806ea85.chunk.js.map",
+    "index.html": "/edgar-markdown-previewer/index.html",
+    "precache-manifest.650b27afd592eca715b7a0c2d456d0af.js": "/edgar-markdown-previewer/precache-manifest.650b27afd592eca715b7a0c2d456d0af.js",
+    "service-worker.js": "/edgar-markdown-previewer/service-worker.js",
+    "static/css/main.7b071f5e.chunk.css.map": "/edgar-markdown-previewer/static/css/main.7b071f5e.chunk.css.map",
+    "static/js/2.d806ea85.chunk.js.LICENSE.txt": "/edgar-markdown-previewer/static/js/2.d806ea85.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/edgar-markdown-previewer/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c97f541.js",
+    "static/js/runtime-main.d6663eee.js",
     "static/js/2.d806ea85.chunk.js",
     "static/css/main.7b071f5e.chunk.css",
     "static/js/main.1d1e3bae.chunk.js"
